@@ -1,7 +1,0 @@
-diff a/helloworld.txt b/helloworld.txt	(rejected hunks)
-@@ -1 +0,2 @@
--print("hello_world")
-\ No newline at end of file
-+print("hello_world")
-+print("blablabla")
-\ No newline at end of file
