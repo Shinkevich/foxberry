@@ -1,1 +1,1 @@
-print("win10")
+print("win10;")
