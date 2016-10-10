@@ -1,1 +1,3 @@
-print("win10;")
+<<<<<<< HEAD
+print("win10")
+print("win8")
