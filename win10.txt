@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-print("win10")
-print("win8")
-print("qwe")
-print("qwerty")
